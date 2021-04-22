@@ -80,3 +80,4 @@ sns.barplot(xlabel, ylabel, data=df, palette="rainbow").set_title(title)
 ```
 ## Results:
 
+* ![Result](https://github.com/swaroopatirumalareddy/bigdata-final-project/blob/main/bigdat.PNG)

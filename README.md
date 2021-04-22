@@ -10,7 +10,7 @@
 - PySpark API
 - Python Programming Language
 - Word cloud
-## process used:
+## The Process and Commands :
 ### Gathering the Data:
 - Get text data from url
 ```
@@ -79,3 +79,4 @@ plt.figure(figsize=(20,4))
 sns.barplot(xlabel, ylabel, data=df, palette="rainbow").set_title(title)
 ```
 ## Results:
+
